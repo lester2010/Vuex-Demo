@@ -18,10 +18,10 @@ export default {
     data () {
         return {
             products: [
-                {name: '鼠标', price: 20},
-                {name: '键盘', price: 40},
-                {name: '耳机', price: 60},
-                {name: '显示屏', price: 80}
+                {id:1,name: '鼠标', price: 20},
+                {id:2,name: '键盘', price: 40},
+                {id:3,name: '耳机', price: 60},
+                {id:4,name: '显示屏', price: 80}
             ]
         }
     }
